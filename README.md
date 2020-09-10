@@ -1,3 +1,4 @@
+Assignment 1:
 The First Part covers up the Multiple Instance Training and second part covers up Semi Supervised learning.
 
 Part 1:Multi Instance Training

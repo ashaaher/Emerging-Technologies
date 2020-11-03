@@ -5,7 +5,7 @@
 
 [Slideshare](https://docs.google.com/presentation/d/1SyJm7w_Lx3nYXJNmXmeI77qWGWh-U_c3I20GphQzMPA/edit?usp=sharing)
 
-[Presentation](https://youtu.be/_8yrICqZXlA)
+[Presentation Video](https://youtu.be/_8yrICqZXlA)
 
 [Research Paper](https://arxiv.org/pdf/2003.02739.pdf)
 

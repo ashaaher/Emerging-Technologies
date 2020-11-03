@@ -1,5 +1,5 @@
 
-# Zero Shot Cross-Lingual Transfer with Meta Learning 
+# Zero Shot Cross-Lingual Transfer with Meta Learning.
 
 [Medium Article](https://medium.com/@ashabalshiram.aher/zero-shot-cross-lingual-transfer-with-meta-learning-de053b7c5215)
 
